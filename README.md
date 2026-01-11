@@ -195,10 +195,12 @@ class AvailableTimeSlotsView(APIView):
 
 ---
 
-## Development Team
+## Team
 
 **Developed by the Engineering Team at Vectorium Technology**
 
-*   **Mehmet Furkan Güneş** - Lead Mobile & Frontend Architect
-*   **Nihal Kemer** - Backend & Database Engineer
+* **Mehmet Furkan Güneş** - Co-Founder & Full Stack Engineer
+    * *Focus:* Mobile Architecture (React Native), UI/UX Design, Client-Side Logic.
+* **Nihal Kemer** - Co-Founder & Full Stack Engineer
+    * *Focus:* System Architecture, API Development (Django), Database Optimization.
 
